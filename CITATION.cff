@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the project."
+title: "Observer Discovery: From Primitive Readouts to Candidate Observer Axes"
+type: software
+authors:
+  - family-names: Yu
+    given-names: Hanyu
+year: 2026
+repository-code: "https://github.com/yuhanyu0/observer-discovery"

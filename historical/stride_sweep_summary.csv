@@ -1,0 +1,6 @@
+experiment,top_axis_id,top_axis_top_readouts,top_axis_effect_size,top_axis_auroc,top_axis_bootstrap_low,top_axis_bootstrap_high,n_promoted_axes,n_promoted_readouts,stride
+stride_1,axis_3,autocorr_lag1|rolling_vol_std|rolling_vol_mean|high_frequency_energy|max_drawdown_proxy|kurtosis_proxy|autocorr_lag5|turning_rate,4.098978939189905,0.999825,3.7035113772922204,4.573106559350344,2,10,1
+stride_2,axis_3,rolling_vol_mean|high_frequency_energy|rolling_vol_std|autocorr_lag1|max_drawdown_proxy|kurtosis_proxy|turning_rate,3.039430203804727,0.9927499999999999,2.8072436990210377,3.3664570372503535,1,9,2
+stride_4,axis_1,variance|std|low_frequency_energy|rolling_vol_mean|high_frequency_energy|rolling_vol_std|autocorr_lag5|autocorr_lag1|turning_rate,0.9705911325088098,0.7566249999999999,0.7903304823312203,1.1788012487728727,1,4,4
+stride_8,axis_1,std|variance|low_frequency_energy|autocorr_lag1|rolling_vol_mean|high_frequency_energy|rolling_vol_std|turning_rate,0.3085668132585422,0.576125,0.11287252632466044,0.5086339232908601,0,0,8
+stride_16,axis_3,autocorr_lag5,0.23722925857855642,0.561225,0.04066931510645962,0.42576889499307086,0,0,16

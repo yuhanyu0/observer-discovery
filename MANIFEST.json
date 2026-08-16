@@ -1,0 +1,30 @@
+{
+  "artifact": "observer-discovery-v0.1-github-compact",
+  "files": [
+    ".github/workflows/validate-artifact.yml",
+    ".gitignore",
+    "CITATION.cff",
+    "CLAIM_BOUNDARY.md",
+    "FIGURE_PROVENANCE.md",
+    "LICENSE_DECISION.md",
+    "METHODS.md",
+    "OGD_BRIDGE.md",
+    "README.md",
+    "REPRODUCIBILITY.md",
+    "SOURCE_DOCUMENTS.json",
+    "experiments/observer_discovery_reconstruction.py",
+    "historical/defense_overview.csv",
+    "historical/frozen_summary.json",
+    "historical/measurement_noise_sweep_summary.csv",
+    "historical/multi_seed_stability_aggregate.csv",
+    "historical/multi_seed_top_readout_frequency.csv",
+    "historical/observer_axes.csv",
+    "historical/readout_scores.csv",
+    "historical/stride_sweep_summary.csv",
+    "historical/threshold_sensitivity_summary.csv",
+    "requirements.txt",
+    "scripts/check_reconstruction.py",
+    "scripts/validate_artifact.py",
+    "tests/test_smoke.py"
+  ]
+}

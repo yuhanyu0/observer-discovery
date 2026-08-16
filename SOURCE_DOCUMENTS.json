@@ -1,0 +1,29 @@
+{
+  "artifact": "observer-discovery-public-v0.1",
+  "scientific_source_version": "v0.4 experimental base",
+  "narrative_boundary_version": "v0.7 insertion patch",
+  "historical_runner_status": "existence_verified_by_v0.5_version_manifest_but_exact_source_not_recovered_as_standalone_canonical_asset",
+  "public_runner_status": "curated_executable_reconstruction_not_byte_identical_historical_source",
+  "source_locks": {
+    "defense_overview.csv": {"bytes": 1533, "sha256": "cf82968ffaee3617e8d7a09a67994316989dbdd120bb72aad5d7c88d6919fbe0"},
+    "figures/fig2_baseline_observer_axes.png": {"bytes": 100047, "sha256": "b753bd7db3a4257af54a4c3b69db883ec408766b9acc2775d7e105eec10d0e2d"},
+    "figures/fig5_measurement_noise_degradation.png": {"bytes": 127236, "sha256": "9eff220218ce04230ef0962a342bcea280bf6fcba70692c2314524a70786c73a"},
+    "figures/fig6_reviewer_defense_controls.png": {"bytes": 96402, "sha256": "8e4863966eed8ef44cad3f788183d625bfb4e51d45dde6a666eaa70e62458c54"},
+    "figures/stride_sweep_distinguishability.png": {"bytes": 73026, "sha256": "c9fdd8c545f26141f1d6e1ddcb1b4f81be7224c8ae914fdeb3caede034831ef6"},
+    "figures/v0_4_stability_threshold_panel.pdf": {"bytes": 25839, "sha256": "a807c57ad31b5cfa5ca37a9a13591e7c44a08fb8f6422f54a94b72f468cbb3e1"},
+    "measurement_noise_sweep_summary.csv": {"bytes": 1642, "sha256": "06285bcef7d8223703ccf3d196dce0cf7b25aae5d676de2c1dce6ab203b0deeb"},
+    "multi_seed_stability_aggregate.csv": {"bytes": 639, "sha256": "8d86590db1fc922d850776d13128d2d5d8343d30a2683b9fefac4462e8001a0b"},
+    "multi_seed_top_readout_frequency.csv": {"bytes": 407, "sha256": "dcab0906d6776682f4c62e0d866600ebb51e6c1a635c3ac95aee3b532ea0169e"},
+    "observer_axes.csv": {"bytes": 613, "sha256": "b02712888afa810050b050d68950126a30c7f640ec64db2b02a44af45be6da6e"},
+    "path_summary_v0_7.md": {"bytes": 6090, "sha256": "4d2819cf23edfd6677137757aa43940051c417bb6009f4035595c672f20ad02f"},
+    "provenance/README(24).md": {"bytes": 6846, "sha256": "c80b39ffe06472a10204a383b77db71ced133d4472f5c3dff8478a851c6944ad"},
+    "provenance/fig1_pipeline_diagram.png": {"bytes": 240874, "sha256": "5d9af74ee816de4f967519c159640b674ee5dc6d38ce14e7f929d527dae9fd7f"},
+    "provenance/ogd_observer_discovery_main_manuscript_v0_6.md": {"bytes": 12947, "sha256": "38fd44a1f88282c201805228859cafae3cfc21d9416d57e39c3489fb9b9ae570"},
+    "provenance/v0_5_qa_report.md": {"bytes": 747, "sha256": "230dcdbc22955b597793e9137b2377a6d33d0c8357a1b5138912e383c0808c47"},
+    "provenance/v0_7_completion_report.md": {"bytes": 1152, "sha256": "7b1331c5748f9f226ee7ff2e66748c524c9e769bff83834226f5e4e03edd7427"},
+    "readout_scores.csv": {"bytes": 1216, "sha256": "668e3e5f1490168f0772e0b2233f8a6196645ae0d876e25075e2964643e98976"},
+    "stride_sweep_summary(1).csv": {"bytes": 1141, "sha256": "e6f6a1dd4c55d215b79e4cb55522513b162e2396908c05befb85ff5d013f9c70"},
+    "threshold_sensitivity_summary.csv": {"bytes": 3995, "sha256": "ba0670205bb1f2c4c8cd5ba845e587325fceb662557300c558aec9ec8cc23be7"},
+    "version_manifest(1).csv": {"bytes": 2644, "sha256": "5589f0f56df6cfacc3c70fbda7eb2e43bf880f8eb3644c73728a9f6efdf7b824"}
+  }
+}
