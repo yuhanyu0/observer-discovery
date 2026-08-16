@@ -1,0 +1,5 @@
+axis_id,cluster_id,n_readouts,top_readouts,effect_size,auroc,bootstrap_low,bootstrap_high,promoted
+axis_3,3,8,autocorr_lag1|rolling_vol_std|rolling_vol_mean|high_frequency_energy|max_drawdown_proxy|kurtosis_proxy|autocorr_lag5|turning_rate,4.098978939189904,0.999825,3.7063943013380607,4.522478987782542,True
+axis_1,1,3,variance|std|low_frequency_energy,1.3748701410563202,0.84575,1.1747749447999345,1.5906791108984837,True
+axis_2,2,1,skew_proxy,0.16697730111665376,0.560225,-0.04457556706055062,0.36634355139259883,False
+axis_0,0,1,mean,0.0821979297108845,0.515025,-0.11351879439976234,0.27513707570749696,False

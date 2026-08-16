@@ -1,0 +1,65 @@
+{
+  "artifact_version": "v0.1",
+  "historical_scientific_version": "v0.4",
+  "n_primitive_readouts": 13,
+  "baseline": {
+    "candidate_axes": 4,
+    "promoted_axes": 2,
+    "top_effect_size": 4.098978939189904,
+    "top_auroc": 0.999825,
+    "top_signature": "autocorr_lag1|rolling_vol_std|rolling_vol_mean|high_frequency_energy|max_drawdown_proxy|kurtosis_proxy|autocorr_lag5|turning_rate"
+  },
+  "controls": {
+    "baseline": {
+      "top_effect_size": 4.098978939189905,
+      "top_auroc": 0.999825,
+      "promoted_axes": 2,
+      "pass": true
+    },
+    "label_shuffle": {
+      "top_effect_size": 0.1145188571584223,
+      "top_auroc": 0.5308,
+      "promoted_axes": 0,
+      "pass": true
+    },
+    "knockdown_volatility_family": {
+      "top_effect_size": 0.5424599501198581,
+      "top_auroc": 0.6509749999999999,
+      "promoted_axes": 0,
+      "pass": true
+    },
+    "measurement_noise_endpoint": {
+      "top_effect_size": 0.6210403676828891,
+      "top_auroc": 0.6604500000000001,
+      "promoted_axes": 0,
+      "pass": true
+    }
+  },
+  "stride": {
+    "stride_1_effect": 4.098978939189905,
+    "stride_16_effect": 0.2372292585785564,
+    "stride_16_promoted_axes": 0
+  },
+  "measurement_noise": {
+    "noise_0_effect": 4.098978939189905,
+    "noise_2_effect": 0.6210403676828891,
+    "noise_2_promoted_axes": 0
+  },
+  "multi_seed": {
+    "n_seeds": 24,
+    "promotion_rate": 1.0,
+    "mean_effect": 3.902022060099224,
+    "min_effect": 3.565895529718252,
+    "mean_auroc": 0.9995385416666668,
+    "mean_signature_jaccard": 0.9848484848484848
+  },
+  "runner_provenance": "existence_verified_by_v0.5_version_manifest_but_exact_source_not_recovered_as_standalone_canonical_asset",
+  "claim_flags": {
+    "real_observer_discovery": false,
+    "causal_axis": false,
+    "universal_observer_basis": false,
+    "empirical_transfer": false,
+    "wdbw_validated": false,
+    "historical_runner_byte_reproduced": false
+  }
+}

@@ -1,0 +1,12 @@
+readout,n_seeds,frequency,is_volatility_family
+autocorr_lag1,24,1.0,True
+autocorr_lag5,24,1.0,True
+high_frequency_energy,24,1.0,True
+kurtosis_proxy,24,1.0,True
+max_drawdown_proxy,24,1.0,True
+rolling_vol_mean,24,1.0,True
+rolling_vol_std,24,1.0,True
+turning_rate,23,0.9583333333333334,True
+low_frequency_energy,1,0.041666666666666664,False
+std,1,0.041666666666666664,True
+variance,1,0.041666666666666664,True
